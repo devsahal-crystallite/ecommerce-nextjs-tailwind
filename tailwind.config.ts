@@ -12,10 +12,15 @@ const config = {
   theme: {
     container: {
       center: true,
-      padding: "2rem",
-      screens: {
-        "2xl": "1400px",
-      },
+      padding: "1rem",
+    },
+    screens: {
+      "xs": { "max": "576px" },
+      "sm": "576px",
+      "md": "768px",
+      "lg": "992px",
+      "xl": "1200px",
+      "2xl": "1400px",
     },
     extend: {
       keyframes: {
