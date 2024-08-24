@@ -20,18 +20,21 @@ const Grid1 = [
     linkText: "Shop groceries",
     href: "/",
     img: G1img1,
+    textClass: "text-black",
   },
   {
     text: "The Dress Edit",
     linkText: "Shop now",
     href: "/",
     img: G1img2,
+    textClass: "text-black",
   },
   {
     text: "Grill & More",
     linkText: "Shop now",
     href: "/",
     img: G1img3,
+    textClass: "text-black",
   },
 ];
 const Grid2 = [
@@ -56,12 +59,14 @@ const Grid3 = [
     linkText: "Shop now",
     href: "/",
     img: G3img2,
+    textClass: "text-black",
   },
   {
     text: "Lawn Games, big fun ,Little cost",
     linkText: "Shop now",
     href: "/",
     img: G3img3,
+    textClass: "text-black",
   },
 ];
 const Grid4 = [
